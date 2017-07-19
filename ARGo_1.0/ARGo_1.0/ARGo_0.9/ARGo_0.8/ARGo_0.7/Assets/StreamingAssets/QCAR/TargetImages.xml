@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="paper_p" size="580.000000 815.000000" />
+    <ImageTarget name="test_image" size="1500.000000 1050.000000" />
+    <ImageTarget name="coupon_p" size="266.000000 266.000000" />
+    <ImageTarget name="paper_c" size="1719.000000 1626.000000" />
+    <ImageTarget name="coupon_c" size="500.000000 500.000000" />
+  </Tracking>
+</QCARConfig>

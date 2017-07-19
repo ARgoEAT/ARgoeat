@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARGo_0.6", "ARGo_0.6.csproj", "{66439C6E-8E5F-209C-9A0E-B6B5508F963C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARGo_0.6.Editor", "ARGo_0.6.Editor.csproj", "{CF606B4A-4965-C735-39AE-C2E4F2D50113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66439C6E-8E5F-209C-9A0E-B6B5508F963C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66439C6E-8E5F-209C-9A0E-B6B5508F963C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66439C6E-8E5F-209C-9A0E-B6B5508F963C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66439C6E-8E5F-209C-9A0E-B6B5508F963C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF606B4A-4965-C735-39AE-C2E4F2D50113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF606B4A-4965-C735-39AE-C2E4F2D50113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF606B4A-4965-C735-39AE-C2E4F2D50113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF606B4A-4965-C735-39AE-C2E4F2D50113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

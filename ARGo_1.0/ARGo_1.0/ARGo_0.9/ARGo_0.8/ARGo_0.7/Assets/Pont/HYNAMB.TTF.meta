@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4246a174b09de5e4eb2da1601489c524
+timeCreated: 1496054757
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HYnamB
+  fontNames:
+  - HYnamB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
