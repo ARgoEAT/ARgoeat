@@ -1,9 +1,0 @@
-lastUpgrade=00938
-proj.pluginVersion=0.9.38
-proj.AppId=877641621484
-and.BundleId=com.ARGOEAT_08.ARgoEat_08
-proj.classDir=Assets
-proj.ConstantsClassName=GPGSIClass
-and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e877641621484%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.ARGOEAT_08.ARgoEat_08%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_1%22%3eCgkI7L-RvMUZEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_2%22%3eCgkI7L-RvMUZEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_3%22%3eCgkI7L-RvMUZEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_4%22%3eCgkI7L-RvMUZEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_5%22%3eCgkI7L-RvMUZEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
-and.ClientId=877641621484-9btndtfma0gkh7tb3si36be01p200seh.apps.googleusercontent.com
-android.SetupDone=true
